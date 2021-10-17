@@ -1,0 +1,7 @@
+F:\_git\BasicCSharpHello\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\_git\BasicCSharpHello\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\_git\BasicCSharpHello\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\_git\BasicCSharpHello\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\_git\BasicCSharpHello\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\_git\BasicCSharpHello\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\_git\BasicCSharpHello\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
